@@ -1,0 +1,11 @@
+{
+  "name": "side_project_planner",
+  "version": "0.0.1",
+  "description": "Side project planner for devs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iam@adamrobins.com",
+  "license": "ISC"
+}
